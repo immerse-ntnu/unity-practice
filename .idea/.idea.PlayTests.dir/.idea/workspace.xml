@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15b60e66-db5b-4ce7-8d02-1e082cb93480" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PlayTests.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PlayTests.dir/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PlayTests.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PlayTests.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InitTestScene637745807845651918.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InitTestScene637745807845651918.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/ASL - Apache Software Foundation License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/Castle.Core.4.4.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/lib/net35/Castle.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/lib/net35/Castle.Core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/lib/net40/Castle.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/lib/net40/Castle.Core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/lib/net45/Castle.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/lib/net45/Castle.Core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/lib/netstandard1.3/Castle.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/lib/netstandard1.3/Castle.Core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/lib/netstandard1.5/Castle.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/lib/netstandard1.5/Castle.Core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Castle.Core.4.4.0/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NSubstitute.4.2.2/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NSubstitute.4.2.2/NSubstitute.4.2.2.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NSubstitute.4.2.2/lib/net45/NSubstitute.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NSubstitute.4.2.2/lib/net45/NSubstitute.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NSubstitute.4.2.2/lib/net46/NSubstitute.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NSubstitute.4.2.2/lib/net46/NSubstitute.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NSubstitute.4.2.2/lib/netstandard1.3/NSubstitute.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NSubstitute.4.2.2/lib/netstandard1.3/NSubstitute.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NSubstitute.4.2.2/lib/netstandard2.0/NSubstitute.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NSubstitute.4.2.2/lib/netstandard2.0/NSubstitute.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/NOTICES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/NUnit.3.13.2.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/lib/net35/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/lib/net35/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/lib/net40/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/lib/net40/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/lib/net45/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/lib/net45/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/lib/netstandard2.0/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/NUnit.3.13.2/lib/netstandard2.0/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/System.Threading.Tasks.Extensions.4.3.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/System.Threading.Tasks.Extensions.4.3.0/System.Threading.Tasks.Extensions.4.3.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/System.Threading.Tasks.Extensions.4.3.0/ThirdPartyNotices.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/System.Threading.Tasks.Extensions.4.3.0/dotnet_library_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/System.Threading.Tasks.Extensions.4.3.0/lib/netstandard1.0/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/System.Threading.Tasks.Extensions.4.3.0/lib/netstandard1.0/System.Threading.Tasks.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/System.Threading.Tasks.Extensions.4.3.0/lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/System.Threading.Tasks.Extensions.4.3.0/lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/packages.config" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="221B7e0qQqzEJuBwpA7AT2rBTQN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

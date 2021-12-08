@@ -1,6 +1,4 @@
-using System;
 using System.Collections;
-using JetBrains.Annotations;
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
@@ -17,11 +15,7 @@ public class player_movement
         _player = Object.FindObjectOfType<PlayerMovement>();
     }
 
-    // A Test behaves as an ordinary method
-
-    // A UnityTest behaves like a coroutine in Play Mode. In Edit Mode you can use
-    // `yield return null;` to skip a frame.
-    [UnityTest, CanBeNull]
+    [UnityTest]
     public IEnumerator player_moves()
     {
         var originalPos = _player.transform.position;
