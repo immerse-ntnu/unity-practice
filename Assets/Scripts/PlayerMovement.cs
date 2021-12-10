@@ -4,14 +4,13 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
 	[SerializeField] private float speed = 500;
-	[SerializeField] private float rayLength = 0.05f;
 	[SerializeField] private float jumpForce;
+	private const float RAY_LENGTH = 0.05f;
 	private Rigidbody _rb;
-	private Vector3 _movement;
 
 	//Will not detect ground if 0.5f instead of 0.49f
 	private bool CanJump =>
-		Physics.Raycast(transform.position - new Vector3(0, 0.49f), Vector3.down, out _, rayLength);
+		Physics.Raycast(transform.position - new Vector3(0, 0.49f), Vector3.down, out _, RAY_LENGTH);
 
 	private void Awake() => _rb = GetComponent<Rigidbody>();
 
